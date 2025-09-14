@@ -206,7 +206,7 @@ If you want to learn how to build ecommerce template on Flutter [watch the playl
 
 Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https://www.flutterlibrary.com/templates/e-commerce-app) & other templates, and components.
 
-[Ecommerce Application/Github](https://github.com/Jayadrithareddy/-Ecommerce-Application--)
+[Ecommerce-Application/Github](https://github.com/Jayadrithareddy/-Ecommerce-Application--)
 
 
 </br >
